@@ -1,9 +1,11 @@
 
 '''
+
 Input: A sorted array arr = [1, 1, 2, 2, 2, 3, 4, 4, 5]
 Output: A new array or the same array with duplicates removed: [1, 2, 3, 4, 5]
 
 Note: Since the array is sorted, all duplicates are consecutive. This is the key observation for an efficient solution.
+
 '''
 
 
