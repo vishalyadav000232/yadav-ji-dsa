@@ -32,7 +32,7 @@ def insertion_sort(arr):
             j -= 1
         arr[j +1 ] = key
 
-arr = [12 ,32,3, 2,3,234,12]
+arr = [ 1 , 5,3,2]
 insertion_sort(arr)
 
 print(arr)
